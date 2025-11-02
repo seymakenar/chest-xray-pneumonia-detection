@@ -60,6 +60,19 @@ Proje Yapısı
 ├── test_model.py        # Test scripti
 └── requirements.txt
 
+Model Dosyası
+
+Bu projede kullanılan eğitilmiş model dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
+
+Model indirme linki:
+https://drive.google.com/file/d/12AyFzI6HYCSANyIEfRaVqwxLEDXZ1NbC/view?usp=drive_link
+
+İndirdikten sonra models/ klasörü içine koymanız gerekir:
+
+project_root/
+└── models/
+    └── chest_xray_model.pth
+
 Notlar
 
 Derin öğrenme ve transfer learning uygulanmıştır.
@@ -71,6 +84,7 @@ Geliştirici
 Şeyma Kenar
 
 Bu proje akademik araştırma / ödev kapsamında hazırlanmıştır.
+
 
 
 
