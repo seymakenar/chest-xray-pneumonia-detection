@@ -63,9 +63,14 @@ Proje Yapısı
 Notlar
 
 Derin öğrenme ve transfer learning uygulanmıştır.
-
 PyTorch ve Torchvision kullanılmıştır.
-
 DataLoader ve görüntü dönüşümleri uygulanmıştır.
+GPU/CPU üzerinde çalıştırılabilir.
+
+Geliştirici
+Şeyma Kenar
+
+Bu proje akademik araştırma / ödev kapsamında hazırlanmıştır.
+
 
 
